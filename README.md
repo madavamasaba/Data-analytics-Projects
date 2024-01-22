@@ -1,4 +1,3 @@
-# Data-analytics-Projects
 /*Creating Companyy Database or schema*/
 CREATE DATABASE COMPANYY;
 USE COMPANYY;
